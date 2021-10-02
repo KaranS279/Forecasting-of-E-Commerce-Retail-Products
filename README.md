@@ -26,7 +26,7 @@ Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There
 12. Profit: It represent profit
 
 
-Links to my group members GitHub profiles.
-Jai - https://github.com/Jaihinduja
+Links to my group members GitHub profiles:
+[Jai](https://github.com/Jaihinduja)
 Prerna - 
 
