@@ -27,6 +27,6 @@ Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There
 
 
 Links to my group members GitHub profiles:
-[Jai](https://github.com/Jaihinduja)
-Prerna - 
+[Jai](https://github.com/Jaihinduja) AND
+[Prerna](https://github.com/PrernaSharma96) 
 
