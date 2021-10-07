@@ -10,7 +10,7 @@ The accuracy of the forecast can be measured by using methods which determine th
 
 Our dataset consists of 3313 rows and 12 variable columns.It is the one year sales data of E-Commerce for every product. We will predict the sales of the product in this project and determine if it will be profitable or not.
 
-Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There are a huge amount of data sets available for various other fields. We have 12 columns of data explained as follows.
+Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There are a huge amount of data sets available for various other fields. We have 4 columns of data explained as follows.
 
 1. Order date: This is a date format data, the date on which order was placed
 2. Manage ID: It is an ID unique for every row
