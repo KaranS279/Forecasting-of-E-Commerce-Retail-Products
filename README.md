@@ -12,13 +12,10 @@ Our dataset consists of 3313 rows and 12 variable columns.It is the one year sal
 
 Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There are a huge amount of data sets available for various other fields. We have 12 columns of data explained as follows.
 
-Order date: This is a date format data, the date on which order was placed
-
-Manage ID: It is an ID unique for every row
-
-Category: Different categories of items ordered through E-Commerce
-
-Profit: It represents profit
+1. Order date: This is a date format data, the date on which order was placed
+2. Manage ID: It is an ID unique for every row
+3. Category: Different categories of items ordered through E-Commerce
+4. Profit: It represents profit
 
 
 Links to my group members GitHub profiles:
